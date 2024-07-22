@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "9d1479c0299de7a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "95f5e6a453c64940",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c41821d4e513f52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e69abfcc5ad00ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clean Code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29f3428e92a71ce5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a111b01aaf56400",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f063ada120881ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46bf09b1563b9301",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes.md"
+              }
+            }
+          },
+          {
+            "id": "34578672f2170d3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7abd97e40f62e0b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f44a7963b776757f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c809cdb46583f3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6513949ed032d0de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0a7b2e1ebed68f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b39e910a0977834",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6f063ada120881ea",
+  "lastOpenFiles": [
+    "LeetCode/217 Contains Duplicate 1.md",
+    "Clean Code.md",
+    "Daily Notes.md",
+    "Welcome.md",
+    "Useful Snippets/Python - Profiling.md",
+    "Useful Snippets",
+    "LeetCode"
+  ]
+}
